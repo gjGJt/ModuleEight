@@ -1,7 +1,7 @@
-#include <iostream>
-#include <algorithm>
+     #include <iostream>
+     #include <algorithm>
 
-using namespace std;
+    using namespace std;
 
 // I wanted to perform a bubble sort on the array instead of iterating using a for-loop
    
